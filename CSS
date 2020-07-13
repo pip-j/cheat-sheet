@@ -1,0 +1,23 @@
+body {
+    background-color: AliceBlue;
+    font-family: arial;
+}
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+  text-shadow: 2px 2px;
+  background-image: url(https://i.imgur.com/M0z7gUX.jpg);
+}
+h2 {
+  font-size: 30px;
+  text-shadow: 2px 2px;
+}
+table, th, td {
+border: 1px solid black;
+}
+<!--.trial {
+  font-family: lucida console;
+}-->
+* {
+  font-family: lucida console;
+}
